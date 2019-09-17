@@ -1,5 +1,7 @@
 # Status
 
+https://engineering.indeedblog.com/blog/2015/07/status-java-library-for-system-status-health-checks/
+
 ![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/status.svg)
 
 Status is a project to help report the current state of external systems that an application depends on, as well as
